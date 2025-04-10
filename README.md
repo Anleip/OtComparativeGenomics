@@ -7,6 +7,6 @@ Ot has the most fragmented and repetitive genome of all bacteria. Its 2.0Mb - 2.
 This project investigates the genome dynamics of Ot using 25 genomes (17 complete and 8 incomplete).<br>
 
 ## Synteny
-I used **Pangraph** to visualise the relative order of alignment blocks among 17 complete genomes. For **Pangraph** documentation, see <https://docs.pangraph.org>
-<br>
-By reordering the 
+I used **Pangraph** to visualise the relative order of alignment blocks among 17 complete genomes. For **Pangraph documentation**, see <https://docs.pangraph.org><br>
+
+The genomes were ordered according to relatedness given by Panaroo 70% core gene alignment (among 90%, 80% and 70% core, 70% gave the best bootstrap score, therefore is the most reliable).
